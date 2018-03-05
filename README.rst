@@ -6,9 +6,9 @@ Django ezTables
    :target: http://travis-ci.org/noirbizarre/django-eztables
 .. image:: https://coveralls.io/repos/noirbizarre/django-eztables/badge.png?branch=master
     :target: https://coveralls.io/r/noirbizarre/django-eztables
-.. image:: https://pypip.in/v/django-eztables/badge.png
+.. image:: https://img.shields.io/pypi/v/django-eztables.svg
     :target: https://crate.io/packages/django-eztables
-.. image:: https://pypip.in/d/django-eztables/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-eztables.svg
     :target: https://crate.io/packages/django-eztables
 
 Easy integration between jQuery DataTables and Django.
